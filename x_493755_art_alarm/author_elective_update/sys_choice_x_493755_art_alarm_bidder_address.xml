@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="address" table="x_493755_art_alarm_bidder" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>address</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Palatul Cesianu-Racoviţă</label>
+            <language>en</language>
+            <name>x_493755_art_alarm_bidder</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-28 12:30:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7bc8dcb907cd90100b35fbbf7c1ed09f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-28 12:30:09</sys_updated_on>
+            <value>Palatul Cesianu-Racoviţă</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>address</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Str. I. L. Caragiale 7 bis</label>
+            <language>en</language>
+            <name>x_493755_art_alarm_bidder</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-28 12:30:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7fc8dcb907cd90100b35fbbf7c1ed0a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-28 12:30:09</sys_updated_on>
+            <value>Str. I. L. Caragiale 7 bis</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>address</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bd. Iancu de Hunedoara nr.8 sect. 1</label>
+            <language>en</language>
+            <name>x_493755_art_alarm_bidder</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-28 12:30:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fbc8dcb907cd90100b35fbbf7c1ed0a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-28 12:30:09</sys_updated_on>
+            <value>Bd. Iancu de Hunedoara nr.8 sect. 1</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>address</element>
+            <name>x_493755_art_alarm_bidder</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-28 12:30:09</sys_created_on>
+            <sys_id>b3c8dcb907cd90100b35fbbf7c1ed0a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>address</sys_name>
+            <sys_package display_value="Art alarm" source="x_493755_art_alarm">583a08a1074590100b35fbbf7c1ed0c5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Art alarm">583a08a1074590100b35fbbf7c1ed0c5</sys_scope>
+            <sys_update_name>sys_choice_x_493755_art_alarm_bidder_address</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-28 12:30:09</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

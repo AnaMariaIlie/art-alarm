@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="bidder" max_length="40" name="x_493755_art_alarm_bidder" sizeclass="0" type="collection">
+        <element choice="1" label="address" mandatory="true" max_length="40" name="address" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Palatul Cesianu-Racoviţă" sequence="0" value="Palatul Cesianu-Racoviţă"/>
+                <element inactive_on_update="false" label="Str. I. L. Caragiale 7 bis" sequence="7" value="Str. I. L. Caragiale 7 bis"/>
+                <element inactive_on_update="false" label="Bd. Iancu de Hunedoara nr.8 sect. 1" sequence="10" value="Bd. Iancu de Hunedoara nr.8 sect. 1"/>
+            </choice>
+        </element>
+        <element label="First name" mandatory="true" max_length="40" name="first_name" type="string"/>
+        <element label="Last name" mandatory="true" max_length="40" name="last_name" type="string"/>
+        <element label="Author" max_length="40" name="painting_author" type="string"/>
+        <element label="Title" mandatory="true" max_length="40" name="painting_title" type="string"/>
+        <element display="true" label="price" max_length="38" name="price" type="currency"/>
+        <element label="year" max_length="40" name="year" type="integer"/>
+    </element>
+</database>
